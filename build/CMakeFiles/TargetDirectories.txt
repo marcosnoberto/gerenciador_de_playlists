@@ -1,0 +1,3 @@
+/mnt/c/users/vinicios/desktop/gerenciador1/build/CMakeFiles/MeuProjeto.dir
+/mnt/c/users/vinicios/desktop/gerenciador1/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/vinicios/desktop/gerenciador1/build/CMakeFiles/rebuild_cache.dir

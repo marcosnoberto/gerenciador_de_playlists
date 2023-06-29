@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MeuProjeto.dir/src/main.cpp.o CMakeFiles/MeuProjeto.dir/src/Musica.cpp.o CMakeFiles/MeuProjeto.dir/src/Playlist.cpp.o -o MeuProjeto 
